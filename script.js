@@ -1,4 +1,8 @@
-
+const cacl = () => {
+  array.forEach(element => {
+    
+  });
+}
 
 // Play & Pause ----------------------------------- //
 
